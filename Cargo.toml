@@ -1,0 +1,9 @@
+[package]
+name = "string_parser"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+nom = "7"
+nom_locate = "4"
